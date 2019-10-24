@@ -1,2 +1,2 @@
 SELECT *
-FROM flights;
+FROM airports;
